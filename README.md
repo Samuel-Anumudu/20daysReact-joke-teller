@@ -2,10 +2,6 @@
 
 This is a simple react app that tells a random joke from a text-to-speech and Joke APIs. It's my Fourth project of 20 react projects I plan to finish within twenty days.
 
-# Live Demo
-
-https://20days-react-infinite-scroll.vercel.app/
-
 ## Available Scripts
 
 In the project directory, you can run:
